@@ -1,0 +1,7 @@
+# Book settings
+title: Primordial
+author: ycap
+
+latex:
+  latex_documents:
+    targetname: book.tex
